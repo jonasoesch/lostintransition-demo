@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1058px" height="966px" viewBox="0 0 1058 966" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>DRS</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DRS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(73.000000, 190.000000)">
+            <polygon id="Path-Copy-72" points="59.5 0.5 659.5 0.5 659.5 600.5 59.5 600.5"></polygon>
+            <polygon id="Path-Copy-78" fill="#292B41" fill-rule="nonzero" points="659.5 20.9 59.5 19.1 59.5 352.7 145.147243 325.7 230.794486 327.5 316.676379 322.1 402.323621 319.1 487.970864 325.1 573.618107 322.7 659.5 311.9"></polygon>
+            <polygon id="Path-Copy-84" fill="#429B7A" fill-rule="nonzero" points="659.5 461.3 573.618107 472.1 487.970864 473.9 402.323621 475.1 316.676379 476.3 230.794486 478.7 145.147243 475.1 59.5 481.7 59.5 580.7 145.147243 579.5 230.794486 579.5 316.676379 577.7 402.323621 576.5 487.970864 578.3 573.618107 577.7 659.5 577.7"></polygon>
+            <polygon id="Path-Copy-90" fill="#F84D48" fill-rule="nonzero" points="659.5 311.9 573.618107 322.7 487.970864 325.1 402.323621 319.1 316.676379 322.1 230.794486 327.5 145.147243 325.7 59.5 352.7 59.5 423.5 145.147243 397.1 230.794486 398.9 316.676379 396.5 402.323621 392.9 487.970864 399.5 573.618107 397.7 659.5 388.1"></polygon>
+            <polygon id="Path-Copy-96" fill="#FBAF00" fill-rule="nonzero" points="659.5 577.7 573.618107 577.7 487.970864 578.3 402.323621 576.5 316.676379 577.7 230.794486 579.5 145.147243 579.5 59.5 580.7 59.5 600.5 145.147243 600.5 230.794486 600.5 316.676379 600.5 402.323621 600.5 487.970864 600.5 573.618107 600.5 659.5 600.5"></polygon>
+            <polygon id="Path-Copy-102" fill="#FFFFFF" fill-rule="nonzero" points="659.5 388.1 573.618107 397.7 487.970864 399.5 402.323621 392.9 316.676379 396.5 230.794486 398.9 145.147243 397.1 59.5 423.5 59.5 481.7 145.147243 475.1 230.794486 478.7 316.676379 476.3 402.323621 475.1 487.970864 473.9 573.618107 472.1 659.5 461.3"></polygon>
+            <rect id="Rectangle-Copy-57" fill="#292B41" x="657" y="41.5" width="61.5" height="27.5"></rect>
+            <rect id="Rectangle-Copy-62" fill="#F84D48" x="659" y="319" width="162" height="27.5"></rect>
+            <rect id="Rectangle-Copy-67" fill="#FFFFFF" x="656.5" y="399" width="274" height="27.5"></rect>
+            <rect id="Rectangle-Copy-72" fill="#429B7A" x="656" y="476.5" width="122" height="27.5"></rect>
+            <rect id="Rectangle-Copy-77" fill="#FBAF00" x="659.331055" y="577.653809" width="111" height="22.8496094"></rect>
+            <text id="Bus-Copy-14" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="669" y="62">Bus</tspan>
+            </text>
+            <text id="Commuter-Rail-Copy-14" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="669" y="340">Commuter Rail</tspan>
+            </text>
+            <text id="Demand-Response-Serv" fill="#000000" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="669" y="419">Demand Response Service</tspan>
+            </text>
+            <text id="Heavy-Rail-Copy-15" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="669" y="496">Heavy Rail</tspan>
+            </text>
+            <text id="Light-Rail-Copy-14" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="669" y="595">Light Rail</tspan>
+            </text>
+            <text id="2007-copy-14" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="112.137466" y="646">2007</tspan>
+            </text>
+            <text id="2008-copy-16" fill="#FFFFFF" opacity="0" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="197.784709" y="646">2008</tspan>
+            </text>
+            <text id="2009-copy-14" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="283.666601" y="646">2009</tspan>
+            </text>
+            <text id="2010-copy-16" fill="#FFFFFF" opacity="0" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="369.313844" y="646">2010</tspan>
+            </text>
+            <text id="2011-copy-14" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="456.461087" y="646">2011</tspan>
+            </text>
+            <text id="2012-copy-16" fill="#FFFFFF" opacity="0" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="540.60833" y="646">2012</tspan>
+            </text>
+            <text id="2013-copy-14" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="591.990223" y="646">2013</tspan>
+            </text>
+            <text id="0%" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="22" y="610">0%</tspan>
+            </text>
+            <text id="20%" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="11" y="510">20%</tspan>
+            </text>
+            <text id="40%" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="11" y="390">40%</tspan>
+            </text>
+            <text id="60%" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="11" y="270">60%</tspan>
+            </text>
+            <text id="80%" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="11" y="150">80%</tspan>
+            </text>
+            <text id="100%" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+                <tspan x="0" y="30">100%</tspan>
+            </text>
+        </g>
+        <text id="Share-of-riders" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold">
+            <tspan x="72" y="176">Share of riders</tspan>
+        </text>
+        <text id="Relative-utilisation" fill="#FFFFFF" font-family="Helvetica-Bold, Helvetica" font-size="24" font-weight="bold">
+            <tspan x="70" y="82">Relative utilisation of different means of public transport over time</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>Storytelling with visualization experiment</title>
+        <link rel="stylesheet" type="text/css" href="../styles.css" />
+    </head>
+    <body>
+
+        <div id="size" class="hidden">
+            <p>Please make your window larger so that you can see the whole rectangle surrounding this 
+                message and then reload the page.</p>
+            <div id="rect"></div> 
+        </div>
+        <div id="nope" class="container hidden">
+            Unfortunately, can not participate in the experiment with your device.
+        </div>
+        <div id="ok" class="container hidden">
+            <h1>Storytelling with visualization experiment</h1>
+            <p>You will see a series of charts that tell a story. After each step, we will ask you some 
+                questions about the charts and story.</p>
+
+            <p>We expect your answers to be between about 3 and 6 sentences long. The whole
+                experiment typically takes around one hour. The sequence will contain 
+                <strong>10 pages</strong> and a short survey at the end.</p>
+
+            <p>Below you can see an example of a chart. One set of answers is something we would
+                consider good. The other answer is something we would consider bad. We will refuse HITs with 3 or more
+                bad answers.
+            </p>
+
+
+            <h2>Example visualization</h2>
+
+            <div class="chart">
+                <img src="chart.svg" alt="chart"/>
+            </div>
+
+
+            <p class="example">Example of two <strong>good</strong> answers:</p>
+
+            <p class="question-example">What is shown on each axis of this chart?</p>
+            <p class="answer-example">Y: International aid donations in billion USD,  X: Years</p>
+
+            <p class="question-example">What can you conclude from this chart?</p>
+            <p class="answer-example">Over time new countries have started donating to international aid. Between 
+                2005 and 2010 there has been a sharp peak of donations because South Korea 
+                and India have started to donate large sums. After 2010 many countries have 
+                strongly reduced their donations. This could be a result of of the financial crisis.</p>
+
+
+            <p class="example">Example of a <strong>bad</strong> answer:</p>
+            <p class="question-example">What can you conclude from this chart?</p>
+            <p class="answer-example">countries and international aid donations</p>
+
+            <br />
+            <br />
+
+            <div id="form" class="survey"></div>
+            <br />
+
+        </div>
+        <script src="main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css?family=Eczar:400,500,600,700,800');
+
+body {
+    height: 10000px;
+    font-family: "Eczar", serif;
+    background-color: #F2F2F2
+}
+
+.chart-title {
+    font-weight: 600;
+}
+
+
+.Chart {
+    width: 640px;
+    height: 720px;
+} 
+
+.axis-label {
+    font-family: "Eczar", serif;
+    font-size: 16px;
+    font-weight: 500;
+    fill: #666;
+}
+
+.Chart {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+
+.right {
+    left: 640px;
+}
+
+
+text {
+    font-size: 13;
+    color: #000;
+}
+
+
+.axis .tick text {
+    font-family: "Eczar", serif;
+}
+
+
+.axis .tick line {
+    stroke: #ccc;
+}
+
+path {
+    /* filter: drop-shadow( 3px 3px 4px rgba(0, 0, 100, .4)); */
+}
+
+.axis .domain {
+    display: none;
+}
+
+#B #axis-y .tick {
+    display: none;
+}
+
+
+#B1 #axis-y .tick {
+    display: none;
+}
+
+#B1 #axis-y .axis-label {
+    display: none;
+}
+
+#B .character .gas {
+    font-weight: 600;
+    fill: #fff;
+}
+
+#B .character .oil {
+    font-weight: 600;
+    fill: #fff;
+}
+
+#B .character .coal {
+    font-weight: 600;
+    fill: #fff;
+}
+
+#B .character .nuclear {
+    font-weight: 600;
+    fill: #fff;
+}
+
+#B .character .biomass {
+    font-weight: 600;
+    fill: #fff;
+}
+
+
+#B .character .hydro {
+    font-weight: 600;
+    fill: #fff;
+}
+
+
+#B .character .wind {
+    font-weight: 600;
+    fill: #fff;
+}
+
+#D .character .percent {
+    font-weight: 600;
+    fill: #fff;
+    letter-spacing: 1px;
+}
+
+#D #axis-y .tick {
+    display: none;
+}
+
+.survey {
+    font-size: 20px;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background-color: #343434;
+    z-index: 100;
+    padding-bottom: 30px;
+}
+
+
+.survey .form {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+.survey label {
+    display: block;
+    color: #fff;
+    letter-spacing: 0.4px;
+    text-shadow: 0 0 1px #000;
+    margin-bottom: 10px;
+}
+
+
+.survey textarea {
+    display: block;
+    width: 100%;
+    background-color: #292929;
+    border: 1px solid #000;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    padding: 20px 20px 20px 20px;
+    color: #fff;
+    font-size: 17px;
+    line-height: 1.3em;
+    font-family: "Eczar";
+    max-width: 1280px;
+}
+
+.survey button {
+    float: right;
+    position: relative;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Eczar";
+    padding: 10px; 20px;
+    border: none;
+    text-shadow:-1px -1px 0 #A84155;
+    border:1px solid #D25068;
+    clear: both;
+    margin-top: 30px;
+
+
+    /* https://1stwebdesigner.com/free-code-snippets-css-buttons/ */
+  text-shadow:-1px -1px 0 #2C7982;
+    background: #3EACBA;
+    border:1px solid #379AA4;
+    background-image:-webkit-linear-gradient(top, #48C6D4, #3EACBA);
+    background-image:-moz-linear-gradient(top, #48C6D4, #3EACBA);
+    background-image:-ms-linear-gradient(top, #48C6D4, #3EACBA);
+    background-image:-o-linear-gradient(top, #48C6D4, #3EACBA);
+    background-image:linear-gradient(top, #48C6D4, #3EACBA);
+    
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius:5px;
+    
+    -webkit-box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1) inset, 0 4px 0 #338A94, 0 4px 2px rgba(0, 0, 0, .5);
+    -moz-box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1) inset, 0 4px 0 #338A94, 0 4px 2px rgba(0, 0, 0, .5);
+    box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1) inset, 0 4px 0 #338A94, 0 4px 2px rgba(0, 0, 0, .5);
+}
+
+
+.survey button:hover {
+ background: #48C6D4;
+    background-image:-webkit-linear-gradient(top, #3EACBA, #48C6D4);
+    background-image:-moz-linear-gradient(top, #3EACBA, #48C6D4);
+    background-image:-ms-linear-gradient(top, #3EACBA, #48C6D4);
+    background-image:-o-linear-gradient(top, #3EACBA, #48C6D4);
+    background-image:linear-gradient(top, #3EACBA, #48C6D4);
+}
+
+
+.survey button:active {
+    -webkit-box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 -1px 0 rgba(255, 255, 255, .1) inset;
+    top:5px;
+}
+
+
+.question {
+    clear: both;
+    margin-top: 50px;
+}
+
+
+.question::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+.survey input[type=radio] {
+    margin: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+
+.radio-container {
+    float: left;
+    width: 18%;
+    text-align: center;
+}
+
+.survey .radio-label {
+    display: block;
+    font-size: 0.8em;
+}
+
+
+.scroll-indicator {
+    font-weight: 100;
+    position: fixed;
+    bottom: 40px;
+    left: 47%;
+}
+
+.scroll-indicator::before {
+    display: block;
+    content: "";
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: -50px;
+    left: 27px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    transform: rotate(-45deg);
+}
+
+.hidden {
+    display: none;
+}
