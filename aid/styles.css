@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,700');
+
+
+body {
+    height: 4000px;
+    background-color: #D9CFC3;
+    font-family: "Fira Sans", "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+.Graph {
+    width: 800px;
+    height: 900px;
+} 
+
+.Graph {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+.right {
+    left: 840px;
+}
+
+
+.tick line {
+    stroke: #57534E;
+    width: 100%;
+}
+
+.axis path {
+    display: none;
+    stroke: #57534E;
+}
+
+.tick text {
+    color: #57534E;
+    font-size: 12px;
+}
+
+.axis-label {
+    fill: #57534E;
+}
+
+.axis-label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+text {
+   font-size: 12px; 
+}
